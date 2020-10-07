@@ -12,4 +12,4 @@ all required packages in 'requirements.txt' file
 
 run 'main.py'
 
-to change selected product categories just change the list given to the Linkdownloader object as a parameter
+to change selected product categories just change the list given to the Linkdownloader object as a parameter in the main file

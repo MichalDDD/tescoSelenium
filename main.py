@@ -4,7 +4,7 @@ from modules.excel_writer import Writer
 import pandas as pd
 
 # initialize firefox browser and get links for chosen product categories
-ld: LinkDownloader = LinkDownloader(['Bakery','Apples & Pears','Fresh Food'])
+ld: LinkDownloader = LinkDownloader(['Bakery','Cereals','Fresh Food'])
 links: dict = ld.get_links()
 del ld
 
